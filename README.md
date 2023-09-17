@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bakhsh</h1>
 <h3 align="center">I'm a passionate developer and data enthusiast with expertise in Python, Django, Data Science, and Machine Learning from Pakistan.</h3>
-<img align="right" width="400" height="50px" alt="Coding" src="C:\Users\HP\Desktop/1.gif">
+<img align="right" width="40" height="50" alt="Coding" src="C:/Users/HP/Desktop/1.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techbakhsh&label=Profile%20views&color=0e75b6&style=flat" alt="techbakhsh" /> </p>
 
