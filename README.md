@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Book recommendations system using machine learning**
 
-- 🌱 I’m currently learning **SoSoftware Engineer & Web Developer | Python, Django, Machine Learning, Scikit-Learn, Deep Learning & Tensorflow**
+- 🌱 I’m currently learning **Software Engineer & Information Technology | Python, Django, Machine Learning, Deep Learning & Artificial Intelligence **
 
 - 💬 Ask me about **Python, Data Science, Machine learning, Deep learning, Django, Seaborn.**
 
