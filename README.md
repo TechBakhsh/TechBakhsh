@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bakhsh</h1>
-<h3 align="center">I'm a passionate developer and data enthusiast with expertise in Python, Django, Data Science, and Machine Learning from Pakistan.</h3>
-    <img align="right" width="400" alt="Coding" src="C:/Users/HP/Desktop/9.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techbakhsh&label=Profile%20views&color=0e75b6&style=flat" alt="techbakhsh" /> </p>
+<h3 align="center">I'm a passionate developer and data enthusiast with expertise in Python, Django, data science, machine learning, and artificial intelligence from Pakistan.</h3>
+    <img align="right" width="400" alt="Coding" src="">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techbakhsh&label=Profile%20views&color=0e75b6&style=flat" alt="tech bakhsh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SoSoftware Engineer & Web Developer | Python, Django, Machine Learning, Scikit-Learn, Deep Learning & Tensorflow**
 
-- 💬 Ask me about **Python, Data science, Machine learning, Deep learning, Django, Seaborn.**
+- 💬 Ask me about **Python, Data Science, Machine learning, Deep learning, Django, Seaborn.**
 
 - 📫 How to reach me **muhammadbakhsh0123@gmail.com**
 
