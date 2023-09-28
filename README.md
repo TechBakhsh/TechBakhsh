@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techbakhsh&show_icons=true&locale=en" alt="techbakhsh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techbakhsh&" alt="techbakhsh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TechBakhah&" alt="TechBakhsh" /></p>
 
